@@ -45,7 +45,7 @@ class quickSort {
 
 public class Qsort {
     public static void main(String[] args) {
-        int[] arr = { 10, 7, 8, 9, 1, 5 };
+        int[] arr = {3,2,1};
         int n = arr.length;
         quickSort qs = new quickSort();
         qs.sort(arr, 0, n - 1);
