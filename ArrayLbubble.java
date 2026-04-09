@@ -49,6 +49,7 @@ public class ArrayLbubble {
 
         Bsort arr1 = new Bsort();
         arr1.sort(arr);
+        input.close();
 
     }
 }

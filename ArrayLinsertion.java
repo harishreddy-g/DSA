@@ -38,6 +38,7 @@ public class ArrayLinsertion {
         }
         insertionSort arr1 = new insertionSort();
         arr1.sort(list);
+        input.close();
 
     }
 }

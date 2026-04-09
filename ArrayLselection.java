@@ -1,6 +1,6 @@
 import java.util.*;
 
-import javax.swing.plaf.synth.SynthSpinnerUI;
+
 
 class selectionSort {
     void sort(List<Integer> list) {
@@ -46,5 +46,6 @@ public class ArrayLselection {
         }
         selectionSort arr1 = new selectionSort();
         arr1.sort(list);
+        input.close();
     }
 }
