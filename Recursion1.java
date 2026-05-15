@@ -1,3 +1,5 @@
+//printing 1 to N using recursion .
+
 import java.util.Scanner;
 
 class Demo {
